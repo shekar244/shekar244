@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm Currently Learning Javascript and Python
+With over 17+ years of extensive experience in Software Testing across various industries including Banking & Automotive Financial Services, Manufacturing & Logistics & Retail, Sports Betting/wagering, Casino iGaming. I bring expertise in Test Manager, SDET and Test Lead roles. My skills encompass all phases of the software development life cycle with a focus on Test Automation Frameworks, CI-CD, Testing Automation tools, Agile methodologies, and cloud technologies such as Azure and AWS. I have proven capabilities in leading offshore teams and efficiently handling client-facing responsibilities. Additionally, I excel in managing multiple projects concurrently and engaging with diverse stakeholders effectively.
+
 
 
 # 💻 Tech Stack:
